@@ -18,7 +18,7 @@ ajouter un raccourcis custom > commande : ```flameshot gui```
 
 ## papier presse
 ```bash
-sudo apt insatll gnome tweak gpast
+sudo apt insatll gnome-tweaks gpast
 ```
 ouvrir menu gpast > Raccourcis clavier > supprimer les raccourcis
 dans lancer l'interface graphique ```<Ctrl><Alt>v```   fermé

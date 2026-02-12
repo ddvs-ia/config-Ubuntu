@@ -11,7 +11,7 @@ déplacement fenètres comme windows 11
 ```Click fenetre + ctrl```
 
 changer de bureau virteul
-``ẁindows + alt + ->   ou  <-```
+```windows + alt + ->   ou  <-```
 
 capture d'écran
 ``` ```

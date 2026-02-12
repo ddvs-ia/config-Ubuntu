@@ -3,7 +3,7 @@ configuration de ubuntu pour une utilisation comme windows
 
 ## installation des outils de base
 ```bash
-sudo apt install htop lnav
+sudo apt install htop lnav flameshot
 ```
 
 
